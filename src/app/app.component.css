@@ -1,0 +1,15 @@
+.header {
+    background-color: bisque;
+}
+
+.fa-pencil-alt {
+    color: #9e6d24;
+}
+
+.fa-trash-alt {
+    color: red;
+}
+
+p {
+    text-align: center;
+}
